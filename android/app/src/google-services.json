@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "189324231214",
+    "project_id": "khatabook-e37d7",
+    "storage_bucket": "khatabook-e37d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189324231214:android:bad922c99d02338ee315bf",
+        "android_client_info": {
+          "package_name": "com.example.khatabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189324231214-fcco9acvgqcm1rq5m1d5vegusgns2uph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmnM79lU-7vYEi_8eArmKWUs2iB-hzJ1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189324231214-fcco9acvgqcm1rq5m1d5vegusgns2uph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189324231214-jmuevhb6f7q0faug2jlbtnapo522hbeo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.khatabook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
